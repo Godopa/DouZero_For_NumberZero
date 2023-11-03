@@ -30,6 +30,7 @@
 *   本项目基于[DouZero](https://github.com/kwai/DouZero)
 *   借鉴了[cardRecorder](https://github.com/ZDZX-T/cardRecorder)项目的部分代码以及模板图片，用于识别扑克牌
 *   本项目基于[DouZero_For_Happy_DouDiZhu](https://github.com/tianqiraf/DouZero_For_HappyDouDiZhu)更新
+*   借鉴了[DouZero_For_HLDDZ_FullAuto](https://github.com/Vincentzyx/DouZero_For_HLDDZ_FullAuto)叫牌推荐代码
 
 ## 相关链接
 *   博客链接：[天启的博客](https://tqraf.cn/2021/07/DouZero-For-HappyDouDiZhu.html)
