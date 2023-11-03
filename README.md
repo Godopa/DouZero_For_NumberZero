@@ -32,7 +32,6 @@
 ## 相关链接
 *   博客链接：[天启的博客](https://tqraf.cn/2021/07/DouZero-For-HappyDouDiZhu.html)
 *   文章链接：[知乎专栏](https://zhuanlan.zhihu.com/p/389439772)
-*   演示视频链接：[视频](https://b23.tv/9WFP5F)
 *   欢迎加入QQ交流群：663810040
 
 ## 特别提示
